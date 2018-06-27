@@ -1,0 +1,26 @@
+.jumbotron {
+background-color: #4aaaa5; 
+color: white;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.card-header {
+    background-color: lightblue;
+}
+
+form {
+    padding: 10px;
+}
+
+#employee-table th,
+td {
+    display: inline-block;
+    width: 16.575%;
+}
