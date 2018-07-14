@@ -2,4 +2,4 @@
 
 
 
-[Schedule Your Next Train!](https://fdunigan.github.io/train-scheduler/);
+[Schedule Your Next Train!](https://fdunigan.github.io/train-scheduler/)
