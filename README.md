@@ -6,9 +6,9 @@ This website will provide up-to-date information about various trains, namely th
 
 Users will be able to submit the following:
 
-Train Name
-Destination
-First Train Time - in military time
+Train Name,
+Destination,
+First Train Time - in military time, and 
 Frequency - in minutes
 
 The app will figure out when the next train will arrive relative to the current time. 
